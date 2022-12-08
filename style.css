@@ -1,0 +1,78 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  overflow-x: hidden;
+  row-gap: 0;
+  column-gap: 0;
+}
+
+
+
+.card{
+  min-height: 500px;
+  
+  
+
+}
+
+.card-body{
+  column-gap: 0;
+  padding: 0;
+}
+.icon{
+  vertical-align: middle;
+}
+
+.drive-tab{
+  display:flex ;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.header-1{
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.header-2{
+  color: grey;
+}
+
+.section-title1{
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.last-card{
+  font-size: 45px;
+  font-weight: 700;
+}
+
+li{
+  text-align: left;
+}
+
+h6{
+  text-align: left;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.copyright{
+  font-size: 10px;
+  color: rgb(99, 98, 98);
+
+}
+
+.bgimg1{
+  max-width: 100%;
+  
+
+}
+
+.footer1{
+  padding-right: 0;
+}
